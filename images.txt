@@ -1,6 +1,7 @@
 python:3.9-buster
 node:22.16.0
 node:22.18.0
+nginx:alpine
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
