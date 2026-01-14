@@ -10,4 +10,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #postgres:latest
 #redis:latest
-python:3.13-bookworm
+#python:3.13-bookworm
+node:18-alpine
