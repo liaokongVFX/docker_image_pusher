@@ -11,4 +11,5 @@
 #postgres:latest
 #redis:latest
 #python:3.13-bookworm
-node:18-alpine
+#node:18-alpine
+python:3.13.11-bookworm
