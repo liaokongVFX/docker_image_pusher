@@ -15,4 +15,7 @@
 #python:3.13.11-bookworm
 #python:3.10-buster
 #python:3.11-bookworm
-node:24-alpine
+#node:24-alpine
+postgres:16-alpine
+redis:7-alpine
+nginx:1.25-alpine
