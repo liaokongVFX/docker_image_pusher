@@ -26,3 +26,4 @@
 #mongo:7
 #redis:7-alpine
 node:22-slim
+pgvector/pgvector:pg17
