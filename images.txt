@@ -30,4 +30,6 @@
 #golang:1.26-alpine
 #alpine:3.21
 #node:22-alpine
-nginx:1.27-alpine
+#nginx:1.27-alpine
+getmeili/meilisearch:v1.13
+qdrant/qdrant:v1.13.6
